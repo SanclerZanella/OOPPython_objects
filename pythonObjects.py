@@ -81,3 +81,5 @@ os.sep = "hahahaha"  # It'll output "hahahaha"
 
 os.opp_course = "Python Objects"  # Add new attribute to this object
 os.opp_course  # It'll output "Python Objects"
+
+# end______________ (2) Everything has an attribute ________________________
