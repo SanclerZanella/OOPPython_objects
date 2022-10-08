@@ -15,7 +15,8 @@
     world use the name 'self'.
 
     'self' is actually the object itself, is the current instance
-    of foo itself.
+    of foo itself, it's always the first parameter in every single method
+    in the class.
 
     '__init__' add the methods to the object that 'self' points to.
     It doesn't return a value, because the most important is the attributes
